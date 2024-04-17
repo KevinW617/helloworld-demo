@@ -1,4 +1,4 @@
-[image_0]: https://pfst.cf2.poecdn.net/base/image/5af70ff57cf24e2e44b85ac01a58293fb3db1eca78d9649b855eb5b6f70a04ea?w=738&h=1280&pmaid=67548867
+
 # Helloworld-demo
 
 This is an app built using DevEco Studio.
